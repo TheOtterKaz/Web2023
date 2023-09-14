@@ -1,0 +1,11 @@
+span
+    {
+        color:red;
+        font-weight: 550;
+    }
+
+#imgProfil
+    {
+        max-height: 25px;
+        border-radius: 50%;
+    }    
