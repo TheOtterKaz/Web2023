@@ -1,0 +1,18 @@
+img
+    {
+        max-width: 200px;
+    }
+
+table {
+    border: 2px solid #c3c3c3;
+    border-radius: 15px;
+    border-spacing: 0px;
+    border-collapse: collapse;
+    overflow: hidden;
+}
+
+tr
+{
+    border: solid;
+    border-width: 1px 0;
+}
